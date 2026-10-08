@@ -4,7 +4,7 @@ Acme Admin is a tiny internal admin panel — sign in, manage products, sign out
 
 **Stack:** Plain HTML / CSS / JS (no build step)
 
-It is realistic but intentionally small, and ships with **no product analytics, experimentation, or session-replay wired in** — the user-action handlers just log to the console today.
+It is intentionally small. The user-action handlers log to the console.
 
 ## Key user actions
 
