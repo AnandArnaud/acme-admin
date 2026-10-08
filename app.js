@@ -1,4 +1,4 @@
-// Acme Admin — plain JS. No product analytics wired in (that's the task).
+// Acme Admin — plain JS. 
 const state = {
   items: [
     { id: 1, name: "Starter Plan", price: "$9", status: "active" },
